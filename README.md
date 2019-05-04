@@ -5,6 +5,8 @@ NodeJS (GraphQL/Rest/Soap)
 
 ## USING
 
+* Run with nodemon to auto-reload files
+
 ```
 $ npm install
 $ npx nodemon server.js
