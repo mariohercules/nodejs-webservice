@@ -9,6 +9,25 @@ NodeJS (GraphQL/Rest/Soap)
 
 ```
 $ npm install
+```
+
+#### GRAPHQL / REST
+
+```
 $ npx nodemon server.js
 ```
 
+#### SOAP
+
+* Terminal #1
+
+```
+$ npx nodemon soap-server.js
+```
+
+* Terminal #2
+
+```
+$ npm install
+$ node soap-client.js
+```
