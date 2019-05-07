@@ -2,10 +2,9 @@
 NodeJS (GraphQL/Rest/Soap) 
 
 * Testing with GRAPHQL, REST AND SOAP Webservice
+* Run with nodemon to auto-reload files
 
 ## USING
-
-* Run with nodemon to auto-reload files
 
 ```
 $ npm install
@@ -28,6 +27,5 @@ $ npx nodemon soap-server.js
 * Terminal #2
 
 ```
-$ npm install
 $ node soap-client.js
 ```
