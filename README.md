@@ -12,6 +12,9 @@ $ npm install
 
 #### GRAPHQL / REST
 
+* Test GraphQL openning the URL http://localhost/graphql
+* Test Rest-API openning the URL http://localhost/api/v1/courses
+
 ```
 $ npx nodemon server.js
 ```
