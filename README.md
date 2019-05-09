@@ -12,8 +12,8 @@ $ npm install
 
 #### GRAPHQL / REST
 
-* Test GraphQL openning the URL http://localhost:4000/graphql
-* Test Rest-API openning the URL http://localhost:4000/api/v1/courses
+* Test GraphQL server openning the URL http://localhost:4000/graphql
+* Test Rest-API server openning the URL http://localhost:4000/api/v1/courses
 
 ```
 $ npx nodemon server.js
@@ -21,7 +21,7 @@ $ npx nodemon server.js
 
 #### SOAP
 
-* Test GraphQL openning the URL http://localhost:8001/wsdl?wsdl
+* Test SOAP server openning the URL http://localhost:8001/wsdl?wsdl
 
 * Terminal #1
 
