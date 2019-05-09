@@ -26,7 +26,7 @@ var myService = {
     }
 };
 
-var xml = require('fs').readFileSync('Courses.wsdl', 'utf8');
+var xml = require('fs').readFileSync('./wsdl-schema/Courses.wsdl', 'utf8');
 
 var server = http.createServer(function(request,response) {
     response.end('404: Not Found: ' + request.url);
