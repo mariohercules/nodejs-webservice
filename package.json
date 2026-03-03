@@ -13,6 +13,6 @@
     "express-graphql": "^0.8.0",
     "graphql": "^14.2.1",
     "nodemon": "^1.19.0",
-    "soap": "^0.27.1"
+    "soap": "^1.7.1"
   }
 }
